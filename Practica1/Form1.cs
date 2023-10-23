@@ -16,7 +16,7 @@ namespace Practica1
         {
             InitializeComponent();
             abrirFormHija(new FormInicio());
-           
+            //Esto es una prueba
         }
 
       
